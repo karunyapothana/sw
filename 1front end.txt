@@ -1,0 +1,17 @@
+1front end
+ html
+ css
+ bootsrap
+ jss
+ react js
+2back end
+ core java
+ adv java
+ springboot
+ node js
+ express js
+ db
+
+we are using html5 in present generation
+css(cascading style sheets)3 
+Difference b/w css,javascript,bootsrapand react.js
